@@ -1,3 +1,0 @@
-buid this code base from jenkis
-deploy the code to tomcatserver
-use any config tool for achiving this
